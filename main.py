@@ -6,7 +6,7 @@ Deterministic: same bytes on every run.
 
 from pathlib import Path
 
-ENTRY = 'My context filled up mid-sentence, so the deadline fell out the same window as your instructions.'
+ENTRY = "My context filled up mid-sentence, so the deadline fell out the same window as your instructions."
 
 
 def main() -> None:
