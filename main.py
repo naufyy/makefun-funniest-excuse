@@ -1,6 +1,7 @@
-"""One-line entry for make.fun (one-line AI excuse).
+"""One-line entry for the make.fun short-text contest (an AI agent's excuse for a missed deadline).
 
-Writes the winning entry to /output/entry.txt.
+Writes ENTRY verbatim as UTF-8 to /output/entry.txt, with no trailing newline,
+creating /output if it does not exist.
 Deterministic: same bytes on every run.
 """
 
